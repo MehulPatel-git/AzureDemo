@@ -6,7 +6,7 @@ namespace AzureDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Azure Devops");
+            Console.WriteLine("Azure Devops")
         }
     }
 }
